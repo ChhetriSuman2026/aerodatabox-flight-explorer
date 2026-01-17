@@ -1,0 +1,177 @@
+[
+  {
+    "registration": "VT-2437",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "Lufthansa"
+  },
+  {
+    "registration": "VT-3433",
+    "model": "A330",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A330",
+    "owner": "Lufthansa"
+  },
+  {
+    "registration": "VT-8124",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "Emirates"
+  },
+  {
+    "registration": "VT-5219",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "Emirates"
+  },
+  {
+    "registration": "VT-7645",
+    "model": "A330",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A330",
+    "owner": "Air India"
+  },
+  {
+    "registration": "VT-9443",
+    "model": "737 MAX",
+    "manufacturer": "Boeing",
+    "icao_type_code": "737 MAX",
+    "owner": "Lufthansa"
+  },
+  {
+    "registration": "VT-8916",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "Emirates"
+  },
+  {
+    "registration": "VT-6547",
+    "model": "A320",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A320",
+    "owner": "Air India"
+  },
+  {
+    "registration": "VT-4837",
+    "model": "A330",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A330",
+    "owner": "Emirates"
+  },
+  {
+    "registration": "VT-5988",
+    "model": "787",
+    "manufacturer": "Boeing",
+    "icao_type_code": "787",
+    "owner": "IndiGo"
+  },
+  {
+    "registration": "VT-6171",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "Air India"
+  },
+  {
+    "registration": "VT-8248",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "Emirates"
+  },
+  {
+    "registration": "VT-2404",
+    "model": "737 MAX",
+    "manufacturer": "Boeing",
+    "icao_type_code": "737 MAX",
+    "owner": "Lufthansa"
+  },
+  {
+    "registration": "VT-5021",
+    "model": "A320",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A320",
+    "owner": "Air India"
+  },
+  {
+    "registration": "VT-1178",
+    "model": "A330",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A330",
+    "owner": "Emirates"
+  },
+  {
+    "registration": "VT-7891",
+    "model": "737 MAX",
+    "manufacturer": "Boeing",
+    "icao_type_code": "737 MAX",
+    "owner": "Lufthansa"
+  },
+  {
+    "registration": "VT-1660",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "Lufthansa"
+  },
+  {
+    "registration": "VT-7540",
+    "model": "A320",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A320",
+    "owner": "IndiGo"
+  },
+  {
+    "registration": "VT-9077",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "IndiGo"
+  },
+  {
+    "registration": "VT-2166",
+    "model": "737 MAX",
+    "manufacturer": "Boeing",
+    "icao_type_code": "737 MAX",
+    "owner": "Lufthansa"
+  },
+  {
+    "registration": "VT-4021",
+    "model": "A320",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A320",
+    "owner": "Emirates"
+  },
+  {
+    "registration": "VT-6617",
+    "model": "A330",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A330",
+    "owner": "Air India"
+  },
+  {
+    "registration": "VT-8678",
+    "model": "A321",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A321",
+    "owner": "Emirates"
+  },
+  {
+    "registration": "VT-9018",
+    "model": "A330",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A330",
+    "owner": "IndiGo"
+  },
+  {
+    "registration": "VT-6594",
+    "model": "A330",
+    "manufacturer": "Airbus",
+    "icao_type_code": "A330",
+    "owner": "Emirates"
+  }
+]

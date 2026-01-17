@@ -1,0 +1,542 @@
+[
+  {
+    "airport_iata": "CDG",
+    "delay_date": "2026-01-17",
+    "total_flights": 98,
+    "delayed_flights": 43,
+    "avg_delay_min": 56,
+    "median_delay_min": 11,
+    "canceled_flights": 5
+  },
+  {
+    "airport_iata": "CDG",
+    "delay_date": "2026-01-16",
+    "total_flights": 78,
+    "delayed_flights": 16,
+    "avg_delay_min": 18,
+    "median_delay_min": 18,
+    "canceled_flights": 2
+  },
+  {
+    "airport_iata": "CDG",
+    "delay_date": "2026-01-15",
+    "total_flights": 65,
+    "delayed_flights": 25,
+    "avg_delay_min": 49,
+    "median_delay_min": 20,
+    "canceled_flights": 1
+  },
+  {
+    "airport_iata": "CDG",
+    "delay_date": "2026-01-14",
+    "total_flights": 82,
+    "delayed_flights": 7,
+    "avg_delay_min": 12,
+    "median_delay_min": 38,
+    "canceled_flights": 5
+  },
+  {
+    "airport_iata": "CDG",
+    "delay_date": "2026-01-13",
+    "total_flights": 46,
+    "delayed_flights": 12,
+    "avg_delay_min": 57,
+    "median_delay_min": 38,
+    "canceled_flights": 2
+  },
+  {
+    "airport_iata": "BOM",
+    "delay_date": "2026-01-17",
+    "total_flights": 93,
+    "delayed_flights": 33,
+    "avg_delay_min": 51,
+    "median_delay_min": 27,
+    "canceled_flights": 3
+  },
+  {
+    "airport_iata": "BOM",
+    "delay_date": "2026-01-16",
+    "total_flights": 89,
+    "delayed_flights": 39,
+    "avg_delay_min": 46,
+    "median_delay_min": 43,
+    "canceled_flights": 8
+  },
+  {
+    "airport_iata": "BOM",
+    "delay_date": "2026-01-15",
+    "total_flights": 94,
+    "delayed_flights": 14,
+    "avg_delay_min": 39,
+    "median_delay_min": 38,
+    "canceled_flights": 4
+  },
+  {
+    "airport_iata": "BOM",
+    "delay_date": "2026-01-14",
+    "total_flights": 111,
+    "delayed_flights": 30,
+    "avg_delay_min": 40,
+    "median_delay_min": 21,
+    "canceled_flights": 2
+  },
+  {
+    "airport_iata": "BOM",
+    "delay_date": "2026-01-13",
+    "total_flights": 69,
+    "delayed_flights": 27,
+    "avg_delay_min": 56,
+    "median_delay_min": 40,
+    "canceled_flights": 9
+  },
+  {
+    "airport_iata": "SIN",
+    "delay_date": "2026-01-17",
+    "total_flights": 100,
+    "delayed_flights": 22,
+    "avg_delay_min": 12,
+    "median_delay_min": 22,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "SIN",
+    "delay_date": "2026-01-16",
+    "total_flights": 92,
+    "delayed_flights": 42,
+    "avg_delay_min": 11,
+    "median_delay_min": 21,
+    "canceled_flights": 4
+  },
+  {
+    "airport_iata": "SIN",
+    "delay_date": "2026-01-15",
+    "total_flights": 77,
+    "delayed_flights": 27,
+    "avg_delay_min": 38,
+    "median_delay_min": 30,
+    "canceled_flights": 7
+  },
+  {
+    "airport_iata": "SIN",
+    "delay_date": "2026-01-14",
+    "total_flights": 71,
+    "delayed_flights": 25,
+    "avg_delay_min": 48,
+    "median_delay_min": 22,
+    "canceled_flights": 4
+  },
+  {
+    "airport_iata": "SIN",
+    "delay_date": "2026-01-13",
+    "total_flights": 67,
+    "delayed_flights": 17,
+    "avg_delay_min": 46,
+    "median_delay_min": 41,
+    "canceled_flights": 7
+  },
+  {
+    "airport_iata": "HKG",
+    "delay_date": "2026-01-17",
+    "total_flights": 56,
+    "delayed_flights": 10,
+    "avg_delay_min": 14,
+    "median_delay_min": 31,
+    "canceled_flights": 7
+  },
+  {
+    "airport_iata": "HKG",
+    "delay_date": "2026-01-16",
+    "total_flights": 113,
+    "delayed_flights": 46,
+    "avg_delay_min": 59,
+    "median_delay_min": 8,
+    "canceled_flights": 10
+  },
+  {
+    "airport_iata": "HKG",
+    "delay_date": "2026-01-15",
+    "total_flights": 79,
+    "delayed_flights": 29,
+    "avg_delay_min": 50,
+    "median_delay_min": 29,
+    "canceled_flights": 3
+  },
+  {
+    "airport_iata": "HKG",
+    "delay_date": "2026-01-14",
+    "total_flights": 109,
+    "delayed_flights": 27,
+    "avg_delay_min": 51,
+    "median_delay_min": 33,
+    "canceled_flights": 3
+  },
+  {
+    "airport_iata": "HKG",
+    "delay_date": "2026-01-13",
+    "total_flights": 44,
+    "delayed_flights": 8,
+    "avg_delay_min": 23,
+    "median_delay_min": 6,
+    "canceled_flights": 10
+  },
+  {
+    "airport_iata": "LHR",
+    "delay_date": "2026-01-17",
+    "total_flights": 101,
+    "delayed_flights": 30,
+    "avg_delay_min": 47,
+    "median_delay_min": 22,
+    "canceled_flights": 2
+  },
+  {
+    "airport_iata": "LHR",
+    "delay_date": "2026-01-16",
+    "total_flights": 86,
+    "delayed_flights": 36,
+    "avg_delay_min": 40,
+    "median_delay_min": 45,
+    "canceled_flights": 4
+  },
+  {
+    "airport_iata": "LHR",
+    "delay_date": "2026-01-15",
+    "total_flights": 113,
+    "delayed_flights": 29,
+    "avg_delay_min": 22,
+    "median_delay_min": 29,
+    "canceled_flights": 1
+  },
+  {
+    "airport_iata": "LHR",
+    "delay_date": "2026-01-14",
+    "total_flights": 59,
+    "delayed_flights": 8,
+    "avg_delay_min": 37,
+    "median_delay_min": 6,
+    "canceled_flights": 2
+  },
+  {
+    "airport_iata": "LHR",
+    "delay_date": "2026-01-13",
+    "total_flights": 51,
+    "delayed_flights": 7,
+    "avg_delay_min": 55,
+    "median_delay_min": 7,
+    "canceled_flights": 7
+  },
+  {
+    "airport_iata": "JFK",
+    "delay_date": "2026-01-17",
+    "total_flights": 43,
+    "delayed_flights": 5,
+    "avg_delay_min": 41,
+    "median_delay_min": 27,
+    "canceled_flights": 4
+  },
+  {
+    "airport_iata": "JFK",
+    "delay_date": "2026-01-16",
+    "total_flights": 116,
+    "delayed_flights": 14,
+    "avg_delay_min": 37,
+    "median_delay_min": 36,
+    "canceled_flights": 3
+  },
+  {
+    "airport_iata": "JFK",
+    "delay_date": "2026-01-15",
+    "total_flights": 68,
+    "delayed_flights": 9,
+    "avg_delay_min": 55,
+    "median_delay_min": 31,
+    "canceled_flights": 6
+  },
+  {
+    "airport_iata": "JFK",
+    "delay_date": "2026-01-14",
+    "total_flights": 78,
+    "delayed_flights": 36,
+    "avg_delay_min": 49,
+    "median_delay_min": 41,
+    "canceled_flights": 5
+  },
+  {
+    "airport_iata": "JFK",
+    "delay_date": "2026-01-13",
+    "total_flights": 115,
+    "delayed_flights": 47,
+    "avg_delay_min": 13,
+    "median_delay_min": 32,
+    "canceled_flights": 3
+  },
+  {
+    "airport_iata": "DEL",
+    "delay_date": "2026-01-17",
+    "total_flights": 44,
+    "delayed_flights": 22,
+    "avg_delay_min": 30,
+    "median_delay_min": 21,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "DEL",
+    "delay_date": "2026-01-16",
+    "total_flights": 69,
+    "delayed_flights": 7,
+    "avg_delay_min": 34,
+    "median_delay_min": 14,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "DEL",
+    "delay_date": "2026-01-15",
+    "total_flights": 51,
+    "delayed_flights": 7,
+    "avg_delay_min": 36,
+    "median_delay_min": 19,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "DEL",
+    "delay_date": "2026-01-14",
+    "total_flights": 59,
+    "delayed_flights": 22,
+    "avg_delay_min": 31,
+    "median_delay_min": 37,
+    "canceled_flights": 3
+  },
+  {
+    "airport_iata": "DEL",
+    "delay_date": "2026-01-13",
+    "total_flights": 75,
+    "delayed_flights": 5,
+    "avg_delay_min": 49,
+    "median_delay_min": 10,
+    "canceled_flights": 4
+  },
+  {
+    "airport_iata": "DXB",
+    "delay_date": "2026-01-17",
+    "total_flights": 44,
+    "delayed_flights": 14,
+    "avg_delay_min": 15,
+    "median_delay_min": 18,
+    "canceled_flights": 3
+  },
+  {
+    "airport_iata": "DXB",
+    "delay_date": "2026-01-16",
+    "total_flights": 113,
+    "delayed_flights": 26,
+    "avg_delay_min": 29,
+    "median_delay_min": 33,
+    "canceled_flights": 2
+  },
+  {
+    "airport_iata": "DXB",
+    "delay_date": "2026-01-15",
+    "total_flights": 66,
+    "delayed_flights": 32,
+    "avg_delay_min": 29,
+    "median_delay_min": 7,
+    "canceled_flights": 1
+  },
+  {
+    "airport_iata": "DXB",
+    "delay_date": "2026-01-14",
+    "total_flights": 67,
+    "delayed_flights": 5,
+    "avg_delay_min": 51,
+    "median_delay_min": 9,
+    "canceled_flights": 4
+  },
+  {
+    "airport_iata": "DXB",
+    "delay_date": "2026-01-13",
+    "total_flights": 45,
+    "delayed_flights": 22,
+    "avg_delay_min": 60,
+    "median_delay_min": 45,
+    "canceled_flights": 9
+  },
+  {
+    "airport_iata": "BLR",
+    "delay_date": "2026-01-17",
+    "total_flights": 109,
+    "delayed_flights": 24,
+    "avg_delay_min": 22,
+    "median_delay_min": 16,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "BLR",
+    "delay_date": "2026-01-16",
+    "total_flights": 56,
+    "delayed_flights": 13,
+    "avg_delay_min": 32,
+    "median_delay_min": 13,
+    "canceled_flights": 7
+  },
+  {
+    "airport_iata": "BLR",
+    "delay_date": "2026-01-15",
+    "total_flights": 108,
+    "delayed_flights": 21,
+    "avg_delay_min": 22,
+    "median_delay_min": 18,
+    "canceled_flights": 6
+  },
+  {
+    "airport_iata": "BLR",
+    "delay_date": "2026-01-14",
+    "total_flights": 84,
+    "delayed_flights": 15,
+    "avg_delay_min": 56,
+    "median_delay_min": 10,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "BLR",
+    "delay_date": "2026-01-13",
+    "total_flights": 86,
+    "delayed_flights": 36,
+    "avg_delay_min": 21,
+    "median_delay_min": 31,
+    "canceled_flights": 8
+  },
+  {
+    "airport_iata": "HYD",
+    "delay_date": "2026-01-17",
+    "total_flights": 101,
+    "delayed_flights": 11,
+    "avg_delay_min": 33,
+    "median_delay_min": 29,
+    "canceled_flights": 9
+  },
+  {
+    "airport_iata": "HYD",
+    "delay_date": "2026-01-16",
+    "total_flights": 66,
+    "delayed_flights": 30,
+    "avg_delay_min": 49,
+    "median_delay_min": 39,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "HYD",
+    "delay_date": "2026-01-15",
+    "total_flights": 85,
+    "delayed_flights": 38,
+    "avg_delay_min": 32,
+    "median_delay_min": 38,
+    "canceled_flights": 8
+  },
+  {
+    "airport_iata": "HYD",
+    "delay_date": "2026-01-14",
+    "total_flights": 55,
+    "delayed_flights": 8,
+    "avg_delay_min": 35,
+    "median_delay_min": 9,
+    "canceled_flights": 7
+  },
+  {
+    "airport_iata": "HYD",
+    "delay_date": "2026-01-13",
+    "total_flights": 97,
+    "delayed_flights": 18,
+    "avg_delay_min": 48,
+    "median_delay_min": 38,
+    "canceled_flights": 5
+  },
+  {
+    "airport_iata": "FRA",
+    "delay_date": "2026-01-17",
+    "total_flights": 88,
+    "delayed_flights": 43,
+    "avg_delay_min": 46,
+    "median_delay_min": 39,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "FRA",
+    "delay_date": "2026-01-16",
+    "total_flights": 76,
+    "delayed_flights": 19,
+    "avg_delay_min": 46,
+    "median_delay_min": 9,
+    "canceled_flights": 3
+  },
+  {
+    "airport_iata": "FRA",
+    "delay_date": "2026-01-15",
+    "total_flights": 89,
+    "delayed_flights": 42,
+    "avg_delay_min": 39,
+    "median_delay_min": 16,
+    "canceled_flights": 1
+  },
+  {
+    "airport_iata": "FRA",
+    "delay_date": "2026-01-14",
+    "total_flights": 78,
+    "delayed_flights": 25,
+    "avg_delay_min": 54,
+    "median_delay_min": 39,
+    "canceled_flights": 1
+  },
+  {
+    "airport_iata": "FRA",
+    "delay_date": "2026-01-13",
+    "total_flights": 93,
+    "delayed_flights": 16,
+    "avg_delay_min": 23,
+    "median_delay_min": 17,
+    "canceled_flights": 0
+  },
+  {
+    "airport_iata": "MAA",
+    "delay_date": "2026-01-17",
+    "total_flights": 106,
+    "delayed_flights": 7,
+    "avg_delay_min": 37,
+    "median_delay_min": 22,
+    "canceled_flights": 2
+  },
+  {
+    "airport_iata": "MAA",
+    "delay_date": "2026-01-16",
+    "total_flights": 81,
+    "delayed_flights": 23,
+    "avg_delay_min": 59,
+    "median_delay_min": 45,
+    "canceled_flights": 5
+  },
+  {
+    "airport_iata": "MAA",
+    "delay_date": "2026-01-15",
+    "total_flights": 67,
+    "delayed_flights": 24,
+    "avg_delay_min": 32,
+    "median_delay_min": 20,
+    "canceled_flights": 10
+  },
+  {
+    "airport_iata": "MAA",
+    "delay_date": "2026-01-14",
+    "total_flights": 44,
+    "delayed_flights": 18,
+    "avg_delay_min": 22,
+    "median_delay_min": 43,
+    "canceled_flights": 10
+  },
+  {
+    "airport_iata": "MAA",
+    "delay_date": "2026-01-13",
+    "total_flights": 42,
+    "delayed_flights": 8,
+    "avg_delay_min": 50,
+    "median_delay_min": 37,
+    "canceled_flights": 1
+  }
+]
